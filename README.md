@@ -1,6 +1,5 @@
 # JohnSmith6879760.github.io
 
-![License](https://img.shields.io/github/license/DoctorDalek1963/WhatsApp-Formatter)
 ![Last Commit](https://img.shields.io/github/last-commit/DoctorDalek1963/WhatsApp-Formatter)
 
 ![Repo Size](https://img.shields.io/github/repo-size/DoctorDalek1963/WhatsApp-Formatter)
