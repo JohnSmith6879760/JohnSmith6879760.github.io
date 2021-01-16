@@ -5,7 +5,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/DoctorDalek1963/WhatsApp-Formatter)
 ![Code Size](https://img.shields.io/github/languages/code-size/DoctorDalek1963/WhatsApp-Formatter)
 
-This is a basic personal website for me to play around with.
+This is a basic [personal website](https://johnsmith6879760.github.io) for me to play around with.
 
 I'm basically just using GitHub pages as a way to host a free website where I can play around with web design and JavaScript.
 
